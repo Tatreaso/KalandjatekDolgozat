@@ -3,11 +3,11 @@ Képzeld el, hogy egy nap egy régi, poros könyvesboltban találsz egy eldugott
 
 A következő választás előtt állsz:
 
-1. **Felfedezem az ismeretlen szigetet**: Úgy döntesz, hogy felfedezed a szigetet, mely tele van rejtélyekkel és veszélyekkel. A térkép alapján keresel egy hajót, hogy átkelj a tengeren, és kiderítsd, mi rejlik az ismeretlen sziget mélyén.
 
-2. **Visszateszed a könyvet a polcra**: Hátrább lépsz a könyvesboltban, és úgy döntesz, hogy inkább nem foglalkozol a rejtélyes könyvvel és a szigettel. Talán csak álmodban találkozol majd vele, vagy éppen másra lesz szükséged ahhoz, hogy kalandokat keress.
+
+
 
 Melyik utat választod?
 
-<button type="button" class="btn btn-light">Light</button>
-<button type="button" class="btn btn-secondary">Secondary</button>
+<button type="button" class="btn btn-light">1. **Felfedezem az ismeretlen szigetet**: Úgy döntesz, hogy felfedezed a szigetet, mely tele van rejtélyekkel és veszélyekkel. A térkép alapján keresel egy hajót, hogy átkelj a tengeren, és kiderítsd, mi rejlik az ismeretlen sziget mélyén.</button>
+<button type="button" class="btn btn-secondary">2. **Visszateszed a könyvet a polcra**: Hátrább lépsz a könyvesboltban, és úgy döntesz, hogy inkább nem foglalkozol a rejtélyes könyvvel és a szigettel. Talán csak álmodban találkozol majd vele, vagy éppen másra lesz szükséged ahhoz, hogy kalandokat keress.</button>
