@@ -1,3 +1,3 @@
-function redir() {
-    window.location.href = "../main/page2.html"
+function redir(oldalsz) {
+    window.location.href = oldalsz
 }
