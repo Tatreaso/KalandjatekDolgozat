@@ -8,3 +8,6 @@ A következő választás előtt állsz:
 2. **Visszateszed a könyvet a polcra**: Hátrább lépsz a könyvesboltban, és úgy döntesz, hogy inkább nem foglalkozol a rejtélyes könyvvel és a szigettel. Talán csak álmodban találkozol majd vele, vagy éppen másra lesz szükséged ahhoz, hogy kalandokat keress.
 
 Melyik utat választod?
+
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-secondary">Secondary</button>
