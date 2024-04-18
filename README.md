@@ -1,13 +1,17 @@
 
-Képzeld el, hogy egy nap egy régi, poros könyvesboltban találsz egy eldugott zugban egy kopott, bőrkötésű könyvet. A könyv címe: "Az Elveszett Kalandok Könyve". Amint kinyitod, egy régi térkép esik ki belőle, mely egy rejtélyes szigetet ábrázol. A könyvben különböző választási lehetőségekkel találkozol, melyek hatással vannak a történet folyására.
 
-A következő választás előtt állsz:
+A kíváncsiságod felébred, és úgy döntesz, hogy felfedezed az ismeretlen szigetet. Az izgalom átjárja testedet, ahogy a lehetőségek sokasága kavarog az elmédben. A térkép alapján elindulsz a kikötő felé, hogy egy hajót találj, amellyel átkelhetsz a tengeren.
+
+A kikötőben egy kisebb, ám robosztus hajót találsz, amely készen áll az útra. A hajóskapitány, egy idős, bölcsnek tűnő férfi, köszönt téged, és megkérdezi, merre szeretnél vitorlázni.
+
+A választás előtt állsz:
+
+Kérd meg a hajóskapitányt, hogy vitorlázzatok közvetlenül az ismeretlen sziget felé, és gyorsítsátok fel az utazást.
+Kérj tanácsot a hajóskapitánytól arról, hogyan kerüljétek el a veszélyeket, és vigyázzatok az úton.
+Váltsd meg a hajóskapitány bizalmát, és kérj tőle segítséget abban, hogy felkészülj a szigeten található kihívásokra és rejtélyekre.
+Melyik lehetőséget választod?
 
 
 
 
 
-
-<button type="button" class="btn btn-light">1. **Felfedezem az ismeretlen szigetet**: Úgy döntesz, hogy felfedezed a szigetet, mely tele van rejtélyekkel és veszélyekkel. A térkép alapján keresel egy hajót, hogy átkelj a tengeren, és kiderítsd, mi rejlik az ismeretlen sziget mélyén.</button>
-<button type="button" class="btn btn-secondary">2. **Visszateszed a könyvet a polcra**: Hátrább lépsz a könyvesboltban, és úgy döntesz, hogy inkább nem foglalkozol a rejtélyes könyvvel és a szigettel. Talán csak álmodban találkozol majd vele, vagy éppen másra lesz szükséged ahhoz, hogy kalandokat keress.</button>
-Melyik utat választod?
