@@ -1,6 +1,13 @@
 .btn-secondary {
     color: black;
+    background-color: #e7e7e7;
+    border: #e7e7e7 solid 1px;
 }
 .btn-secondary:hover{
     color: black;
+    background-color: #cfcfcf;
+    border: #e7e7e7 solid 1px;
+}
+body {
+    background-color: #FAF9F6;
 }
