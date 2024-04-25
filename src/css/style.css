@@ -10,4 +10,12 @@
 }
 body {
     background-color: #FAF9F6;
+    background-image: url(../images/kep1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    font-size: 1.33em;
+    font-weight: bold;
+    background-color: rgba(red, green, blue, 0.6);
 }
